@@ -1,0 +1,20 @@
+{
+"instructions_readme": "1) Open Chrome, 2) go to chrome://tracing, 3) click Load, 4) navigate to this file.",
+
+"traceEvents":[
+{ "pid": "Unity", "ph":"M", "name": "process_name", "args": {"name": "Unity"} },
+{ "pid": "Unity", "ph":"M", "name": "process_sort_index", "args": {"sort_index": -100} },
+{ "pid": "Unity", "tid": 1, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "Unity", "tid": 1,"ts": 1.67520462234657E+15,"dur": 7261290, "ph":"X", "name": "Build player"},
+{ "pid": "Unity", "tid": 1,"ts": 1.67520462238695E+15,"dur": 485907, "ph":"X", "name": "Preprocess Player"},
+{ "pid": "Unity", "tid": 1,"ts": 1.67520462306687E+15,"dur": 6457881, "ph":"X", "name": "Prepare For Build"},
+{}
+
+],
+"meta_datetime": "01/31/2023 22:37:09",
+"meta_command_line": "C:\\unity\\2021.3.17f1\\Editor\\Unity.exe -createproject \"C:\\unity\\ARPlanets\\ARPlanets Uni\" -cloneFromTemplate C:\\Users\\B00137931\\AppData\\Roaming\\UnityHub\\Templates\\com.unity.template.ar-3.0.2.tgz -cloudOrganization  -cloudEnvironment production -useHub -hubIPC -hubSessionId 25aad110-a1a9-11ed-abd3-992a7af618a9",
+"meta_command_line_args": "C:\\unity\\2021.3.17f1\\Editor\\Unity.exe -createproject C:\\unity\\ARPlanets\\ARPlanets Uni -cloneFromTemplate C:\\Users\\B00137931\\AppData\\Roaming\\UnityHub\\Templates\\com.unity.template.ar-3.0.2.tgz -cloudOrganization  -cloudEnvironment production -useHub -hubIPC -hubSessionId 25aad110-a1a9-11ed-abd3-992a7af618a9",
+"meta_user_name": "B00137931",
+"meta_os_version": "Microsoft Windows NT 10.0.19045.0",
+"meta_cpu_count": "8"
+}
