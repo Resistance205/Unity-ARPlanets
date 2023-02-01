@@ -93,3 +93,11 @@ The following packages were added:
   com.unity.timeline@1.6.4
   com.unity.ugui@1.0.0
   com.unity.visualscripting@1.8.0
+
+=== Wed Feb  1 15:50:27 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.timeline from version 1.6.4 to 1.7.2
