@@ -12,21 +12,29 @@
 
 
 
-// 0x00000001 System.Void UnityEngine.XR.OpenXR.Features.OculusQuestSupport.OculusQuestFeature::.ctor()
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_IsEditorOnly_m89CDF58170837840B9679F1E6D09E08087613945 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_Get_mA1FEF0D999D557CE8394FBFA61D621E9BB942F4D (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes__ctor_m24BF05E9A3A6F7318E0FE2BFE9728EB42A3E20AF (void);
 extern void OculusQuestFeature__ctor_mF38393F1A5FA04C3AF781D82EC58A4CBB9D85AA2 (void);
-static Il2CppMethodPointer s_methodPointers[1] = 
+static Il2CppMethodPointer s_methodPointers[4] = 
 {
+	UnitySourceGeneratedAssemblyMonoScriptTypes_IsEditorOnly_m89CDF58170837840B9679F1E6D09E08087613945,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_Get_mA1FEF0D999D557CE8394FBFA61D621E9BB942F4D,
+	UnitySourceGeneratedAssemblyMonoScriptTypes__ctor_m24BF05E9A3A6F7318E0FE2BFE9728EB42A3E20AF,
 	OculusQuestFeature__ctor_mF38393F1A5FA04C3AF781D82EC58A4CBB9D85AA2,
 };
-static const int32_t s_InvokerIndices[1] = 
+static const int32_t s_InvokerIndices[4] = 
 {
-	5743,
+	9739,
+	9769,
+	6392,
+	6392,
 };
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Unity_XR_OpenXR_Features_OculusQuestSupport_CodeGenModule;
 const Il2CppCodeGenModule g_Unity_XR_OpenXR_Features_OculusQuestSupport_CodeGenModule = 
 {
 	"Unity.XR.OpenXR.Features.OculusQuestSupport.dll",
-	1,
+	4,
 	s_methodPointers,
 	0,
 	NULL,
@@ -38,7 +46,7 @@ const Il2CppCodeGenModule g_Unity_XR_OpenXR_Features_OculusQuestSupport_CodeGenM
 	0,
 	NULL,
 	NULL,
-	NULL, // module initializer,
+	NULL,
 	NULL,
 	NULL,
 	NULL,

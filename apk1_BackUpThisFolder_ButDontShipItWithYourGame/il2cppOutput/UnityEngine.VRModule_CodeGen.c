@@ -12,9 +12,7 @@
 
 
 
-// 0x00000001 System.Void UnityEngine.XR.XRDevice::DisableAutoXRCameraTracking(UnityEngine.Camera,System.Boolean)
 extern void XRDevice_DisableAutoXRCameraTracking_m1243FCAD2AC9C4D5C2E551255A1B2BA266E12A52 (void);
-// 0x00000002 System.Void UnityEngine.XR.XRDevice::InvokeDeviceLoaded(System.String)
 extern void XRDevice_InvokeDeviceLoaded_mBE2198DE44A72E2F5059566C46B9907D82782790 (void);
 static Il2CppMethodPointer s_methodPointers[2] = 
 {
@@ -23,8 +21,8 @@ static Il2CppMethodPointer s_methodPointers[2] =
 };
 static const int32_t s_InvokerIndices[2] = 
 {
-	8122,
-	8790,
+	8900,
+	9604,
 };
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_UnityEngine_VRModule_CodeGenModule;
 const Il2CppCodeGenModule g_UnityEngine_VRModule_CodeGenModule = 
@@ -42,7 +40,7 @@ const Il2CppCodeGenModule g_UnityEngine_VRModule_CodeGenModule =
 	0,
 	NULL,
 	NULL,
-	NULL, // module initializer,
+	NULL,
 	NULL,
 	NULL,
 	NULL,

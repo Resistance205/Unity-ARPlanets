@@ -36,13 +36,19 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: High-level NavMesh components for building and using NavMeshes at
     runtime and at edit time.
   status: 0
   errors: []
   versions:
     all:
+    - 1.0.0-exp.1
+    - 1.0.0-exp.2
+    - 1.0.0-exp.3
+    - 1.0.0-exp.4
+    - 1.1.0-pre.1
+    - 1.1.0-pre.2
     - 1.1.1
     compatible:
     - 1.1.1
@@ -63,9 +69,9 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 1
+  hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 638023206030000000
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -4061,7 +4067,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: "Common utility classes for XR projects\nRefer to API documentation
     for details. Some particularly useful utilities include:\n\u25AA Geometry Utilities\n 
     \u25AA Point of closest approach\n  \u25AA Closest edge of a polygon\n  \u25AA
@@ -4074,9 +4080,20 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 2.0.0-pre.3
+    - 2.0.0-pre.5
+    - 2.0.0-pre.6
+    - 2.0.0
+    - 2.0.1
+    - 2.1.0-pre.1
+    - 2.1.0
     - 2.1.1
+    - 2.2.0-pre.1
+    - 2.2.0-pre.2
     compatible:
     - 2.1.1
+    - 2.2.0-pre.1
+    - 2.2.0-pre.2
     recommended: 2.1.1
     deprecated: []
   dependencies:
@@ -4107,9 +4124,9 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
     configSource: 0
-  hideInEditor: 1
+  hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 638072343720000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.core-utils@2.1/manual/index.html
   hasRepository: 1
   repository:
