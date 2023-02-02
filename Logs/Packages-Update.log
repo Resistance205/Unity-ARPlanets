@@ -101,3 +101,15 @@ Update Mode: updateDependencies
 
 The following packages were updated:
   com.unity.timeline from version 1.6.4 to 1.7.2
+
+=== Thu Feb  2 19:12:05 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ai.navigation@1.1.1
+The following packages were updated:
+  com.unity.collab-proxy from version 1.17.7 to 2.0.0
+  com.unity.feature.ar from version 1.0.0 to 1.0.1
+  com.unity.xr.arcore from version 4.2.7 to 5.0.3
